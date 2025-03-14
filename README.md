@@ -31,3 +31,4 @@ Death rates varied significantly across regions, likely due to healthcare dispar
 Some countries had slower vaccine rollouts, impacting their COVID-19 trends.
 
 This analysis will be extended further using **Tableau** for data visualization and deeper insights.
+TABLEAU PUBLIC: https://public.tableau.com/app/profile/niharika.reddy.bokka/vizzes
