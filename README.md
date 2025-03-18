@@ -2,7 +2,7 @@
 
 This project analyzes COVID-19 data from various countries over multiple years using MySQL. The dataset includes details about cases, deaths, and vaccinations to observe trends and insights.
 
-CovidDeaths.csv – Contains information on COVID-19 cases and deaths across different countries.
+CovidDeaths.csv – Contains information on COVID-19 cases and deaths across different countries.  
 CovidVaccinations.csv – Includes data on vaccination rates worldwide.
 
 **Analyses Performed are:**
