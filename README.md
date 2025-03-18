@@ -7,21 +7,21 @@ CovidVaccinations.csv – Includes data on vaccination rates worldwide.
 
 **Analyses Performed are:**
 
-**COVID-19 Cases and Deaths Analysis (1. Covid Deaths.sql)**  
+**COVID-19 Cases and Deaths Analysis**  
 Total cases and deaths by country,   
 Death percentage per country,   
 Global death rate comparison,   
 
-**Vaccination Analysis (2. Covid Vaccinations.sql)**  
+**Vaccination Analysis**  
 Total vaccinations administered per country,   
 Percentage of population vaccinated,   
 Trends in vaccination over time,   
 
-**Combining COVID & Vaccination Data (3. Covid - JOIN_tables.sql)**  
+**Combining COVID & Vaccination Data**  
 Case trends vs. vaccination rates,   
 Impact of vaccines on reducing cases,   
 
-**Population vs. Vaccination Analysis (4. PopVsVac.sql & 5. PopVsVac_View.sql)**  
+**Population vs. Vaccination Analysis**  
 Percentage of population vaccinated per country,   
 Population size and vaccination rollout.   
 
